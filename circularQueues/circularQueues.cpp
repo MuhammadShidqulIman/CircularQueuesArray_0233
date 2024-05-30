@@ -103,4 +103,7 @@ public:
     }
 };
 
-int main()
+int main() {
+    Queues q;
+    char ch;
+
